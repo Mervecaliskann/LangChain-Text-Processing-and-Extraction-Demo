@@ -59,11 +59,11 @@ openai_apikey=openai_api_anahtariniz_buraya
 ## Betik iki farklı LangChain tekniğini göstermektedir:
 
 * 1. Create Stuff Documents Chain
-** Bu teknik, insanların renk tercihleri hakkında bilgi içeren bir belge koleksiyonunu işler ve bu bilgileri çıkarır.
+   Bu teknik, insanların renk tercihleri hakkında bilgi içeren bir belge koleksiyonunu işler ve bu bilgileri çıkarır.
 
 
 * 2. Create OpenAI Function Runnable Chain
-** Bu teknik, metinden insanlar ve şehirler hakkında yapılandırılmış bilgi çıkarmak için OpenAI'nin fonksiyon çağırma yeteneklerini kullanır.
+  Bu teknik, metinden insanlar ve şehirler hakkında yapılandırılmış bilgi çıkarmak için OpenAI'nin fonksiyon çağırma yeteneklerini kullanır.
 
 
 ## Nasıl Çalışır?
