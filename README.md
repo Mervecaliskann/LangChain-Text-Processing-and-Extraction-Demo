@@ -77,7 +77,7 @@ openai_apikey=openai_api_anahtariniz_buraya
   
 ## Çıktı
 
-![her kişinin favori rengi](langchain_chainpy-Ekran görüntüsü 2025-08-05 192004.png)
+![her kişinin favori rengi](https://github.com/Mervecaliskann/LangChain-Text-Processing-and-Extraction-Demo/blob/main/langchain_chainpy-Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-05%20192004.png)
 
 
 ### Create OpenAI Function Runnable Chain
