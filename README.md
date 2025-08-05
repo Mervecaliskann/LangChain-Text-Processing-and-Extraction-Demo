@@ -74,8 +74,18 @@ openai_apikey=openai_api_anahtariniz_buraya
 * Betik, insanların renk tercihleri hakkında bilgi içeren bir belge koleksiyonu tanımlar.
 * LangChain'in create_stuff_documents_chain fonksiyonunu kullanarak bu belgeleri işlemek için bir zincir oluşturur.
 * Zincir, her kişinin favori rengi hakkında bilgileri çıkarır ve yapılandırılmış bir formatta sunar.
+  
+## Çıktı
+
+![her kişinin favori rengi](langchain_chainpy-Ekran görüntüsü 2025-08-05 192004.png)
+
 
 ### Create OpenAI Function Runnable Chain
 * Betik, iki Pydantic modeli tanımlar: Insan ve Sehir.
 * create_openai_fn_runnable aracılığıyla OpenAI'nin fonksiyon çağırma yeteneklerini kullanan bir zincir oluşturur.
 * Doğal dil girdisi sağlandığında, model uygun şemayı belirler ve ilgili bilgileri çıkarır.
+
+## Çıktı
+
+![çıktı](chain_aydin-Ekran görüntüsü 2025-08-05 221630.png)
+
