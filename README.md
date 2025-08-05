@@ -87,5 +87,7 @@ openai_apikey=openai_api_anahtariniz_buraya
 
 ## Çıktı
 
-![çıktı](chain_aydin-Ekran görüntüsü 2025-08-05 221630.png)
+![çıktı](https://github.com/Mervecaliskann/LangChain-Text-Processing-and-Extraction-Demo/blob/main/chain_aydin-Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-05%20221630.png)
+
+
 
